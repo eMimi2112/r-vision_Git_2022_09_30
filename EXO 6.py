@@ -1,6 +1,6 @@
 #Créez une liste contenant 10 nombres de 1 à 5.
 # Affichez la liste.
-numbers = [-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5]
+numbers = [-5, -4, -3, -2, -1, 0, 1, 5]
 print(numbers)
 
 # Demandez à l'utilisateur d'entrer un nombre au clavier.
